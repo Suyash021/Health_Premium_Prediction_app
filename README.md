@@ -41,7 +41,7 @@ pip install -r requirements.txt
 ### 3. Run the App
 
 ```bash
-python app.py
+streamlit app.py
 ```
 
 Visit (https://codebasics-ml-project-health-premium.streamlit.app/) in your browser to access the dashboard!
