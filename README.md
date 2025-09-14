@@ -116,7 +116,7 @@ Connect with [Suyash021](https://github.com/Suyash021) on GitHub!
 
 ## 🌈 License
 
-[MIT License](LICENSE)
+[Apache-2.0](LICENSE)
 
 ---
 
